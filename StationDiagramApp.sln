@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StationDiagramApp", "StationDiagramApp\StationDiagramApp.csproj", "{B83194DD-5C98-4121-A085-2C7288ED08ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationDiagramApp.Tests", "StationDiagramApp.Tests\StationDiagramApp.Tests.csproj", "{D32D15FE-FCF7-43E7-80EA-CF5728AE02FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83194DD-5C98-4121-A085-2C7288ED08ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83194DD-5C98-4121-A085-2C7288ED08ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83194DD-5C98-4121-A085-2C7288ED08ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83194DD-5C98-4121-A085-2C7288ED08ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32D15FE-FCF7-43E7-80EA-CF5728AE02FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32D15FE-FCF7-43E7-80EA-CF5728AE02FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32D15FE-FCF7-43E7-80EA-CF5728AE02FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32D15FE-FCF7-43E7-80EA-CF5728AE02FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC07755-CE8A-49CE-9B24-FF4BA44507FE}
+	EndGlobalSection
+EndGlobal
